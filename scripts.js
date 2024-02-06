@@ -2,7 +2,7 @@
 
 const value = 3; // the value was a numeric string and not a number. so I had to remove the the double qoutes
 console.log(value + 4 + value); /*initially this is how the javascript read the code ' number + string + number", 
-so that doesmt make sense to add togetther, rather than to string the values together*/
+so that does not make sense to add together, rather than to string the values together*/
 
 //Challenge two
 
